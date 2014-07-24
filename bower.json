@@ -1,0 +1,25 @@
+{
+  "name": "backbone_data",
+  "version": "0.0.0",
+  "homepage": "https://github.com/davetayls/backbone_data",
+  "authors": [
+    "davetayls <dave@the-taylors.org>"
+  ],
+  "description": "Common data utils for offline ready backbone apps",
+  "main": "amd/index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "backbone"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
