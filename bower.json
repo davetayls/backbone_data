@@ -1,6 +1,10 @@
 {
   "name": "backbone_data",
   "version": "0.0.0",
+  "dependencies": {
+    "backbone.dualstorage": "nilbus/Backbone.dualStorage#master",
+    "backbone.paginator": "backbone-paginator/backbone.paginator"
+  },
   "homepage": "https://github.com/davetayls/backbone_data",
   "authors": [
     "davetayls <dave@the-taylors.org>"
