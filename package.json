@@ -1,0 +1,32 @@
+{
+  "name": "backbone_data",
+  "version": "0.0.0",
+  "description": "backbone_data =============",
+  "main": "src/index.coffee",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-amd-wrap": "~1.0.1",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-clean": "^0.5.0",
+    "load-grunt-config": "~0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-copy": "^0.5.0",
+    "underscore": "^1.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davetayls/backbone_data.git"
+  },
+  "keywords": [
+    "backbone"
+  ],
+  "author": "davetayls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davetayls/backbone_data/issues"
+  },
+  "homepage": "https://github.com/davetayls/backbone_data"
+}
